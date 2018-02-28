@@ -1,0 +1,11 @@
+[user]
+	email = eglen.git@gmail.com
+	name = Edward Glen
+[core]
+	editor = vim
+[push]
+	default = simple
+[color]
+	ui = true
+[pull]
+	rebase = true
